@@ -9,12 +9,3 @@ Tervetuloa **Seppoon**, intuitiivinen, kevyt (ei ominaisuuksia) ja tehokas(?) te
 - **File Management Ease**: Open, edit, and save files effortlessly.
 - **Undo/Redo**: (Almost) Full undo and redo capabilities to make editing worry-free.
 
-### Asennus
-
-1. Asenna???
-   ```bash
-   git clone https://gitlab.utu.fi/alhelk/dtek-2074-tekstieditori.git
-   cd seppo
-   cargo build --release
-   ./target/release/seppo
-   ```
